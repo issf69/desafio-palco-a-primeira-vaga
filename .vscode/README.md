@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat Projeto de estudo da aluna Irene Silva França, feito através Plataforma Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat Projeto de estudo da aluna Irene Silva França, feito através Plataforma Rocketseat :wave: [Participe da nossa comunidade!](https://www.rocketseat.com.br/)
